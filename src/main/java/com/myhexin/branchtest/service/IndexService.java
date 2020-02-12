@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class IndexService {
     public String index() {
-        return "Hello World Spring";
+        return "Hello World Spring Boot dev2";
     }
 }
